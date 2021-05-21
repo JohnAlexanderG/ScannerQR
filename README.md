@@ -1,16 +1,21 @@
 # scannerqr
 
-A new Flutter project.
+Flutter App - Lector de codigos QR.
 
-## Getting Started
+![Alt Text](./assets/ScannerQR.gif)
 
-This project is a starting point for a Flutter application.
+### Generador de Codigos QR
+https://www.qrcode.es/es/generador-qr-code/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### formato para mapas - text
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+    geo:latitude,longitude
+    geo:4.4930688,-74.115988
+```
+### formato para website - html
+
+```
+    https://www.johnalexanderg.dev/
+```
